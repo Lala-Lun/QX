@@ -15,5 +15,6 @@ DOMAIN-SUFFIX,rednote.com
 DOMAIN-SUFFIX,rednote.com.my
 DOMAIN-SUFFIX,rednote.life
 DOMAIN-SUFFIX,rednotecdn.com
-DOMAIN,edith.xiaohongshu.com
-DOMAIN,edith.rnote.com
+# 小红书留言改IP见下
+# DOMAIN,edith.xiaohongshu.com
+# DOMAIN,edith.rnote.com
